@@ -26,6 +26,8 @@ apt - get ... -> instaler ...
 
 
 git add ... -> ajout sur git
+
 git commit -m " Creation du fichier ..."
+
 git branche - unset - upstream
 
