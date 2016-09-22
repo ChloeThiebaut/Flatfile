@@ -16,3 +16,12 @@ Git permet de travailler à plusieurs et permet la création de branche.
 # Commande #
 
 mkdir -> création de répertoire
+pwd -> ou l'on se trouve
+git clone "..."
+apt - get ... -> instaler ... 
+
+
+git add ... -> ajout sur git
+git commit -m " Creation du fichier ..."
+git branche - unset - upstream
+
