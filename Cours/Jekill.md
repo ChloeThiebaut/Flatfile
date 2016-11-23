@@ -2,6 +2,7 @@
 
 Jekyll est un générateur de site codé en Ruby. De plus, les sites en HTTPS sont mieux référencés.
 L'objectifs de jekyll et de permettre de voir les modifications sans passer par GitHub. 
+On accéde au site en allant sur : http:username.github/flatfile
 
 ## Commande ##
 
