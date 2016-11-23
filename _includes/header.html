@@ -1,14 +1,10 @@
 <header>
        <h1>Doc</h1>
     <nav>
-
-       <!--
-        <a href="/"> accueil</a>
-        <a href="about.html"> a propos</a>
-        -->
+        <ul>
         {% for page in site.pages %}
-            {{page.url}}
-        {% end for %}
-      
+            <li> <a href="{{page.url}}">{{page.title}}</a></li>
+        {% endfor %}
+        </ul>
     </nav>
 </header>

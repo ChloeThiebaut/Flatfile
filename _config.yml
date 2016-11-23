@@ -1,1 +1,6 @@
 title: site
+
+collections:
+    cours:
+    output : true
+    permalink : Cours/:path/
