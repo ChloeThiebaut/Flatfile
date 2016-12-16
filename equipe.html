@@ -1,0 +1,13 @@
+---
+title: Equipe
+layout: page
+---
+
+<main>
+    {%for ligue.in.Site.data.clubs %}
+        {%for club in ligue[1] uhere:Key,football-team %}
+        {{club.name}}
+        {{% endfor %}}
+    {{% endfor %}}
+    
+</main>

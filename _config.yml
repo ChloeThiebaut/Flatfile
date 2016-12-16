@@ -3,5 +3,5 @@ url: flatfiles
 
 collections:
 cours:
-    output : true
-    permalink : Cours/:path/
+    output: true
+    permalink: Cours/:path/
