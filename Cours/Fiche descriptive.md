@@ -28,7 +28,7 @@ Cette tasse est faite en porcelaine, elle peux contenir 270 ml. Ces dimensions s
 Cette tasse est faite en porcelaine, elle peux contenir 200 ml. Ces dimensions sont: 9.6 x 8.5 x 9.5 cm
  prix: 10.70€
  
- ![Image of lapin](http:lapin//www.totalcadeau.com/photos/1151/17519-miniature_double.jpg)
+ ![Image of lapin](http://www.totalcadeau.com/photos/1151/17519-miniature_double.jpg)
 Cette tasse est faite en porcelaine, elle peux contenir 270 ml. Ces dimensions sont: 10.9 x 8.5 x 9.2 cm
  prix: 10.70€
 
@@ -36,9 +36,23 @@ Cette tasse est faite en porcelaine, elle peux contenir 270 ml. Ces dimensions s
 Cette tasse est faite en céramique, elle peux contenir 250 ml. Ces dimensions sont: 10 x 9 cm
  prix: 14€
  
- ![Image of chat](![Image of renard](https://daol3a7s7tps6.cloudfront.net/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/thum_a0001317-2.jpg)
-Cette tasse est faite en céramique, elle peux contenir 250 ml. Ces dimensions sont: 10 x 9 cm
- prix: 14€)
+ ![Image of chat](https://daol3a7s7tps6.cloudfront.net/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/thum_a0001317-2.jpg)
 Cette tasse est faite en porcelaine, elle peux contenir 400 ml. Ces dimensions sont: 8 x 7 cm
  prix: 15€
 
+ ![Image of panda](https://s-media-cache-ak0.pinimg.com/564x/12/c1/f6/12c1f62f3ad0985be6c5295d4cc2b66f.jpg)
+ Cette tasse est faite en porcelaine, elle peux contenir 360 ml. Ces dimensions sont: 12 x 9 cm
+ prix: 17€
+ 
+  ![Image of chouette](https://s-media-cache-ak0.pinimg.com/564x/12/c1/f6/12c1f62f3ad0985be6c5295d4cc2b66f.jpg)
+ Cette tasse est faite en céramique, elle peux contenir 360 ml. Ces dimensions sont: 14.5 x 10 x 11.5cm
+ prix: 20€
+ 
+   ![Image of fox](https://img0.etsystatic.com/138/0/9712974/il_570xN.1009459034_4jgr.jpg)
+ Cette tasse est faite en céramique, elle peux contenir 360 ml. Ces dimensions sont: 9.5 x 10 x 8.5cm
+ prix: 14.5€
+ 
+   ![Image of renne](https://img1.etsystatic.com/169/1/9712974/il_570xN.1126032377_fhkl.jpg)
+ Cette tasse est faite en céramique, elle peux contenir 360 ml. Ces dimensions sont: 9.5 x 10 x 8.5cm
+ prix: 14.5€
+ 
