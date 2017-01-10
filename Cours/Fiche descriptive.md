@@ -2,9 +2,9 @@
 
 vente de tasse
 
-logo : 
-nom : tasse-T
-baseline : 
+logo : ![Image of logo](../tasse.png)  
+nom : tasse-T  
+baseline :   
 10/15 produits
   * titre
   * prix
@@ -40,7 +40,7 @@ Cette tasse est faite en porcelaine, elle peux contenir 270 ml. Ces dimensions s
 Cette tasse est faite en céramique, elle peux contenir 250 ml. Ces dimensions sont: 10 x 9 cm  
  prix: 14€
  
- ![Image of chat](https://daol3a7s7tps6.cloudfront.net/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/thum_a0001317-2.jpg)  
+ ![Image of chat](http://litbimg6.rightinthebox.com/images/384x384/201604/ffvuwv1459827778953.jpg)  
 Cette tasse est faite en porcelaine, elle peux contenir 400 ml. Ces dimensions sont: 8 x 7 cm  
  prix: 15€
 
@@ -48,7 +48,7 @@ Cette tasse est faite en porcelaine, elle peux contenir 400 ml. Ces dimensions s
  Cette tasse est faite en porcelaine, elle peux contenir 360 ml. Ces dimensions sont: 12 x 9 cm  
  prix: 17€
  
-  ![Image of chouette](https://s-media-cache-ak0.pinimg.com/564x/12/c1/f6/12c1f62f3ad0985be6c5295d4cc2b66f.jpg)  
+  ![Image of chouette](http://thumbs2.picclick.com/d/w1600/pict/192057393561_/ique-tasse-animaux-peints-a-la-main-de.jpg)  
  Cette tasse est faite en céramique, elle peux contenir 360 ml. Ces dimensions sont: 14.5 x 10 x 11.5cm  
  prix: 20€
  
