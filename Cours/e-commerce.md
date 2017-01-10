@@ -7,16 +7,16 @@ Prestashop et Magento ne s'adaptent pas aux spécificités que peux avoir les pr
 SaaS: service as a service -> boutique en ligne
 
 Liste des differents logiciels CMS:
-*Big commerce
-*Wix
-*Wifeo
-*Jimdo
-*Shopify (créateur de liquid)
-*Square space
-*Weebly
-*42store
-*wiziShop
-*Bigcartel
+* Big commerce
+* Wix
+* Wifeo
+* Jimdo
+* Shopify (créateur de liquid)
+* Square space
+* Weebly
+* 42store
+* wiziShop
+* Bigcartel
 
 | logiciel | référencement | prix (abo+transaction) | moyen de paiement | volume | stockage | retour | assurance | mode de livraison | multilangue | modifier les template | export du site |
 |----------|---------------|------------------------|-------------------|--------|----------|--------|-----------|-------------------|-------------|-----------------------|----------------|
@@ -25,8 +25,8 @@ Liste des differents logiciels CMS:
 |Wifeo|aide|0€|cb, paypal et autre, paiement hors ligne|illimité|illimité|||||oui||
 |Jimdo|aide|15€||||||||||
 |Shopify|"oui"|29$+2%|cb, paypal et autre, paiement hors ligne|illimité|illimité||||oui||
-|Square space||
+|Square space|oui|+2%|paypal et stripe|||||international||oui|vers wordpress|
 |Weebly|oui|7€/mois +3%|cb, paypal et autre|10 produits|illimité|||25 pays avec PayPal et 11 pays avec Stripe||oui||
 |42store|oui|79€/mois +1%|cb, paypal et autre|evolue(avec le prix)|illimité|||international|oui|oui|oui|
 |wiziShop||79€ + %|cb, paypal et autre, paiement hors ligne||illimité|||||oui||
-|Bigcartel||
+|Bigcartel|oui|9.99$|paypal||25 produits|||||oui||
