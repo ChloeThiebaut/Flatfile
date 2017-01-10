@@ -2,7 +2,7 @@
 
 vente de tasse
 
-logo : ![Image of logo](../logo.png)  
+logo : ![Image of logo](logo.png)  
 nom : tasse-T  
 baseline :   
 10/15 produits
