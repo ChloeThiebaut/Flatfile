@@ -4,8 +4,8 @@ layout: page
 ---
 
 <main>
-    {%for ligue.in.Site.data.clubs %}
-        {%for club in ligue[1] where:Key,football-team %}
+    {%for ligue.in.site.data.clubs %}
+        {%for club in ligue[1] where:Key,'football-team' %}
         {{club.name}}
         {{% endfor %}}
     {{% endfor %}}
