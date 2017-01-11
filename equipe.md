@@ -4,10 +4,11 @@ layout: page
 ---
 
 <main>
-    {% for ligue.in.site.data.clubs %}
-        {%for club in ligue[1] where:Key,'football-team' %}
-        {{club.name}}
-        {{% endfor %}}
-    {{% endfor %}}
+<p>Test Equipe</p>   
     
+{% for ligue in site.data.clubs %}
+    {% for club in ligue[1 ]%}
+    {{club.name}}
+    {% endfor %}
+{% endfor %}
 </main>
