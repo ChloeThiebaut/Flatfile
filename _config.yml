@@ -1,7 +1,14 @@
+---
 title: site
-url: flatfiles
-
+timezone: UTC
 collections:
-cours:
+  posts:
+    title: Posts
     output: true
-    permalink: Cours/:path/
+  uploads:
+    title: Uploads
+    output: true
+url: flatfiles
+cours:
+  output: true
+  permalink: Cours/:path/
