@@ -1,9 +1,11 @@
 ---
-title: a propos
-permalink: "/about"
+title: Cours
 layout: default
 ---
 
-# A propos #
-
-ceci une page test pour verifier la page a propos
+{% for post in site.cour limit:5 %}
+<h2>{{ cour.title }}</h2>
+<p>{{ cour.content }}</p>
+{% endfor %}
+ 
+{{ site.collections }}
