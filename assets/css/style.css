@@ -34,7 +34,7 @@ a:hover, a:active, a:visited, a:link{
     color: black;
 }
 header{
-        background-image: url("../img/image.jpg");
+        background-image: url("Flatfile/assets/img/image.jpg");
         background-size: cover;
     margin: 0;
     padding: 0;
